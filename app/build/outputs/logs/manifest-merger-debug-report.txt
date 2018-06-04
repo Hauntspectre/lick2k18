@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [:googleDirectionLibrary] E:\lic2k18\googleDirectionLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\ccab7cefbc013db25481ee2ee42a14a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\bbb6187855f370d03fb21a7aabbab19c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\0878e465eaa072121e846929c7db500c\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\8b1e8797c34d4afded0084e25ca79d63\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\7f511f875fd51d9f01bde753092421c3\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\9bcb1aec64c8102ed2f4e73121be6294\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\dba3107bb0eb364c62d02fe317ad7fda\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\3b508fff070f3deaad75589ef359f217\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\44a0d681180ff4ce513749e3bfaeb74d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\c4fbcf18401f39ddb559041dc7680582\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\d1edbe3bb31cc778b666266d7b7e3384\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\c80d7f98b30034df86c6c99ec876194b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\f09b40dd46c15bb5fd2b87fa00083641\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\dde099cc89c98ea27cb8595421cfe23a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\95529b335e2b35731cd162a7e1858303\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\4557b0c71d11ffe9edc9bab8facf5f52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\3ca0714607864b460fb69acdb0d0ac96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\9ee8181d7e2b706e85ca67ff9d823af7\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\2f23529dcff44066bbd0cf5f5dce669d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\bca076c9f27033aadd3b020f260737fa\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\605072b44218ae1a3fcf28cc263ad675\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\18548a9e4a8f89827433771d7faad7ca\AndroidManifest.xml:2:1-6:12
+INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+		INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [:googleDirectionLibrary] E:\lic2k18\googleDirectionLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-67
+MERGED from [:googleDirectionLibrary] E:\lic2k18\googleDirectionLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\0878e465eaa072121e846929c7db500c\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\0878e465eaa072121e846929c7db500c\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\0878e465eaa072121e846929c7db500c\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\0878e465eaa072121e846929c7db500c\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:9:22-76
+uses-feature#android.hardware.location.gps
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:10:19-63
+uses-feature#android.permission.ACCESS_COARSE_LOCATION 
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:11:19-76
+uses-feature#0x00020000
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:14:5-16:35
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\0878e465eaa072121e846929c7db500c\AndroidManifest.xml:21:5-77
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\0878e465eaa072121e846929c7db500c\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:15:9-41
+	android:required
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:16:9-32
+application
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:18:5-46:19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\0878e465eaa072121e846929c7db500c\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\0878e465eaa072121e846929c7db500c\AndroidManifest.xml:24:5-19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\8b1e8797c34d4afded0084e25ca79d63\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\8b1e8797c34d4afded0084e25ca79d63\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\7f511f875fd51d9f01bde753092421c3\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\7f511f875fd51d9f01bde753092421c3\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\9bcb1aec64c8102ed2f4e73121be6294\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\9bcb1aec64c8102ed2f4e73121be6294\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\dba3107bb0eb364c62d02fe317ad7fda\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\dba3107bb0eb364c62d02fe317ad7fda\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\9ee8181d7e2b706e85ca67ff9d823af7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\9ee8181d7e2b706e85ca67ff9d823af7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\2f23529dcff44066bbd0cf5f5dce669d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\2f23529dcff44066bbd0cf5f5dce669d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\bca076c9f27033aadd3b020f260737fa\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\bca076c9f27033aadd3b020f260737fa\AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\605072b44218ae1a3fcf28cc263ad675\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\605072b44218ae1a3fcf28cc263ad675\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\18548a9e4a8f89827433771d7faad7ca\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\18548a9e4a8f89827433771d7faad7ca\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:21:9-35
+	android:allowBackup
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.akexorcist.googledirection.sample.MainActivity
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:25:9-32:20
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.akexorcist.googledirection.sample.WaypointsDirectionActivity
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:34:9-36:59
+	android:label
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:35:13-55
+meta-data#com.google.android.gms.version
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:38:9-40:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\8b1e8797c34d4afded0084e25ca79d63\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\8b1e8797c34d4afded0084e25ca79d63\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\dba3107bb0eb364c62d02fe317ad7fda\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\dba3107bb0eb364c62d02fe317ad7fda\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:40:13-66
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:39:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:42:9-44:71
+	android:value
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:44:13-68
+	android:name
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml:43:13-62
+uses-sdk
+INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+MERGED from [:googleDirectionLibrary] E:\lic2k18\googleDirectionLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:googleDirectionLibrary] E:\lic2k18\googleDirectionLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\ccab7cefbc013db25481ee2ee42a14a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\ccab7cefbc013db25481ee2ee42a14a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\bbb6187855f370d03fb21a7aabbab19c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\bbb6187855f370d03fb21a7aabbab19c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\0878e465eaa072121e846929c7db500c\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\0878e465eaa072121e846929c7db500c\AndroidManifest.xml:23:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\8b1e8797c34d4afded0084e25ca79d63\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\8b1e8797c34d4afded0084e25ca79d63\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\7f511f875fd51d9f01bde753092421c3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\7f511f875fd51d9f01bde753092421c3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\9bcb1aec64c8102ed2f4e73121be6294\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\9bcb1aec64c8102ed2f4e73121be6294\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\dba3107bb0eb364c62d02fe317ad7fda\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\dba3107bb0eb364c62d02fe317ad7fda\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\3b508fff070f3deaad75589ef359f217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\3b508fff070f3deaad75589ef359f217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\44a0d681180ff4ce513749e3bfaeb74d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\44a0d681180ff4ce513749e3bfaeb74d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\c4fbcf18401f39ddb559041dc7680582\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\c4fbcf18401f39ddb559041dc7680582\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\d1edbe3bb31cc778b666266d7b7e3384\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\d1edbe3bb31cc778b666266d7b7e3384\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\c80d7f98b30034df86c6c99ec876194b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\c80d7f98b30034df86c6c99ec876194b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\f09b40dd46c15bb5fd2b87fa00083641\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\f09b40dd46c15bb5fd2b87fa00083641\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\dde099cc89c98ea27cb8595421cfe23a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\dde099cc89c98ea27cb8595421cfe23a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\95529b335e2b35731cd162a7e1858303\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\95529b335e2b35731cd162a7e1858303\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\4557b0c71d11ffe9edc9bab8facf5f52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\4557b0c71d11ffe9edc9bab8facf5f52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\3ca0714607864b460fb69acdb0d0ac96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\3ca0714607864b460fb69acdb0d0ac96\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\9ee8181d7e2b706e85ca67ff9d823af7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.0.aar\9ee8181d7e2b706e85ca67ff9d823af7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\2f23529dcff44066bbd0cf5f5dce669d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.0.aar\2f23529dcff44066bbd0cf5f5dce669d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\bca076c9f27033aadd3b020f260737fa\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\bca076c9f27033aadd3b020f260737fa\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\605072b44218ae1a3fcf28cc263ad675\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\605072b44218ae1a3fcf28cc263ad675\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\18548a9e4a8f89827433771d7faad7ca\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.0.aar\18548a9e4a8f89827433771d7faad7ca\AndroidManifest.xml:4:5-43
+INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml
+		INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+		ADDED from E:\lic2k18\app\src\main\AndroidManifest.xml
+		INJECTED from E:\lic2k18\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\7f511f875fd51d9f01bde753092421c3\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\7f511f875fd51d9f01bde753092421c3\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\7f511f875fd51d9f01bde753092421c3\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\7f511f875fd51d9f01bde753092421c3\AndroidManifest.xml:19:19-85
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\605072b44218ae1a3fcf28cc263ad675\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\605072b44218ae1a3fcf28cc263ad675\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\octavian.popa\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\605072b44218ae1a3fcf28cc263ad675\AndroidManifest.xml:26:13-58
